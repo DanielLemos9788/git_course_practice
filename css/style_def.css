@@ -7,6 +7,22 @@
     padding: 0;
 }
 
+#header_x{
+    background: #00ffff; 
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5)
+    color: rgb(128, 128, 128);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.8cm;
+
+}
+
+#header_x #tagline{
+    padding: lem 0 0 0;
+    font-weight: normal;
+    font-size: 0.5cm;
+}
+
 #container{
     width: 70%;
     padding: lem;
