@@ -10,6 +10,7 @@ The curriculum of the course is:
 * Good Practices
 * GitHub
 * Multiple Personality Disorder
+* Includes Examples in Linux, Windows and Mac
 
 As a remainder: **This readme.md is a JOKE**
 
