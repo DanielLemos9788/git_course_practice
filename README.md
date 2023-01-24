@@ -13,4 +13,5 @@ The curriculum of the course is:
 
 As a remainder: **This readme.md is a JOKE**
 
+Created by Daniel Lemos
 
